@@ -1,0 +1,11 @@
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.deps.json
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.dll
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.pdb
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.AssemblyInfoInputs.cache
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.AssemblyInfo.cs
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.csproj.CoreCompileInputs.cache
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.dll
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\refint\Mediatheque.Core.dll
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.pdb
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\MediathequeSolution\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\ref\Mediatheque.Core.dll
